@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+.container-principal {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-burger {
+    width: 40%;
+    height: auto;
+    font-size: 25px;
+}
+
+.search-burger i {
+    margin: 3px;
+}
+
+.user-shop i {
+    margin: 3px;
+}
+
+.user-shop {
+    width: 40%;
+    height: auto;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 25px;
+}
+
+.logo-principal {
+    width: 20%;
+    height: auto;
+}
