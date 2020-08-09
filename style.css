@@ -132,3 +132,27 @@ a:hover {
     color: white;
     border: 0px;
 }
+
+.dots {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.dots i {
+    margin-right: 10px;
+}
+
+.cream-section {
+    width: 90%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding-left: 60px;
+}
+
+.cream-section img {
+    width: 30%;
+    height: auto;
+    padding: 20px;
+}
